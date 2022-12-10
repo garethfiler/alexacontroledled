@@ -1,5 +1,5 @@
-#define SSID "SKYFZKHE"        //type your own SSID name
-#define PASSWORD "iDyNiUHn2FWI"        //type your own WIFI password
+#define SSID "ENTER_YOU_OWN"        //type your own SSID name
+#define PASSWORD "ENTER_YOUR_OWN"        //type your own WIFI password
 #define SERIAL_BUFFER_SIZE 256
 
 #include "uartWIFI.h"
